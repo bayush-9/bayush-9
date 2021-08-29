@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ayush Bharsakle
 - 👀 I’m interested in App Development.
-- 🌱 I’m currently learning flutter with dart.
-- 💞️ I’m a newbie in flutter.
+- 🌱 I’m currently learning flutter SDK with dart.
 
 
 <!---
