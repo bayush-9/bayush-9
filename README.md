@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Bharsakle</h1>
 
-![download](https://user-images.githubusercontent.com/81760629/132938341-d7affbbd-ae87-4381-96c7-4da2f2fc6cb4.png)
 
-<h3 align="center">:eyes: Wait!! Did someone someone say Flutter is future of App development :running_woman:</h3>
 
 
 
